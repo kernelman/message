@@ -44,6 +44,7 @@ class Message {
      *
      * @param null $message
      * @return null
+     * @throws InvalidArgumentException
      */
     static public function process($message = null) {
 
