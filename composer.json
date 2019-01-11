@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": "~7.0.0",
+    "php": ">=7.0.0",
     "kernelman/exceptions" : "~1.0.0"
   },
   "require-dev": {
