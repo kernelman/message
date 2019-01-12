@@ -9,7 +9,7 @@
 
 namespace Message;
 
-use \Exceptions\InvalidArgumentException;
+use Exceptions\InvalidArgumentException;
 
 /**
  * Handler message
