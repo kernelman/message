@@ -38,6 +38,9 @@ class Message {
     const ERR_ALREADY_EXISTS    = 'AlreadyExists: ';
     const ERR_NONEMPTY          = 'NonEmpty: ';
     const STATUS_CODE           = 'Status code: ';
+    const LOG_INFO              = 'info';
+    const LOG_DEBUG             = 'debug';
+    const LOG_ERROR             = 'error';
 
     /**
      * Process message
